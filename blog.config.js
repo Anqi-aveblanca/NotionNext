@@ -2,7 +2,7 @@
 const BLOG = {
   AUTHOR: '鹅', // 鹅
   BIO: '一只满脑子幻想的鹅。剪辑师，视频、内容创作者', // 作者简介
-  LINK: 'https://tangly1024.com', // 网站地址
+  LINK: 'https://dreamingpenguin.me', // 网站地址
   KEYWORDS: ' Portfolio，1只鹅', // 网站关键词 英文逗号隔开
   NOTION_PAGE_ID:
   process.env.NOTION_PAGE_ID || '02ab3b8678004aa69e9e415905ef32a5', // Important page_id！！！Duplicate Template from  https://www.notion.so/tanghh/02ab3b8678004aa69e9e415905ef32a5
